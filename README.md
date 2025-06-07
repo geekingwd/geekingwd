@@ -1,7 +1,5 @@
 Hola,this is divyaa<br/>
 Currently studying🍓<br/>
-Lookin forward and into open sources<br/>
-Languages i work in: python,java,c++<br/>
 📍delhi,20<br/>
 
 # 💫 About Me:
